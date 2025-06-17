@@ -1,0 +1,50 @@
+# Configuration de la base de données (à personnaliser)
+db.php
+
+# Fichiers de configuration sensibles
+config.php
+.env
+
+# Logs
+*.log
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.old
+
+# Fichiers de cache
+cache/
+tmp/
+
+# Fichiers de session PHP
+sessions/
+
+# Fichiers d'upload (si ajoutés plus tard)
+uploads/
+
+# Fichiers de dépendances (si ajoutés plus tard)
+vendor/
+node_modules/
+
+# Fichiers de build (si ajoutés plus tard)
+dist/
+build/ 
